@@ -15,7 +15,7 @@ sections:
           - pr-3
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
