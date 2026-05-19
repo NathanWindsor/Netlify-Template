@@ -22,15 +22,15 @@ sections:
     text: |
       hi :)
     actions:
-      - label: Get started
+      - label: See Tutorials
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
-        type: Button
+        type: Link
     media:
       url: /images/IMG_9791.png
       altText: Unblock your team boost your time to production preview
