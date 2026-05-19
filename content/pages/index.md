@@ -21,16 +21,7 @@ sections:
     subtitle: Nathan Windsor, Luthier
     text: |
       hi :)
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/IMG_9791.png
       altText: Unblock your team boost your time to production preview
