@@ -73,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
+            "label": "EMAIL",
             "url": "/mailto:nate@windsorluthiery.com",
             "icon": "arrowRight",
             "iconPosition": "right",
